@@ -1,10 +1,6 @@
-mobile-disk-sdk-android
+Yandex-Disk-SDK
 =======================
 
-SDK for Disk on Android
+SDK for Yandex.Disk
 
-https://github.com/yandex-disk/yandex-disk-sdk-java
-use master branch for Android version
-use j2se branch for J2SE version
-
-
+J2SE version
